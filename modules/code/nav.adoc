@@ -1,4 +1,0 @@
-* xref:index.adoc[Working with AeroGear Code]
-** xref:workflow.adoc[AeroGear GitHub Workflow]
-** xref:handling-prs.adoc[How to Handle AeroGear Pull Requests]
-
